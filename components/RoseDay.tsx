@@ -108,7 +108,7 @@ export default function RoseDay() {
             🌹
           </motion.div>
           <h2 className="text-5xl md:text-6xl lg:text-7xl font-display font-bold text-rose-600 mb-4 romantic-text">
-            Rose Day
+            Happy Rose Day Akku 🌹
           </h2>
           <p className="text-xl md:text-2xl font-script text-rose-500">
             Where love begins with a single rose
